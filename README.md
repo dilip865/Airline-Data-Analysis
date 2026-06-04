@@ -151,6 +151,3 @@ Data Analyst
 
 Skills: SQL | Power BI | Tableau | Python | Advanced Excel
 
-LinkedIn: Add Your LinkedIn URL
-
-GitHub: Add Your GitHub Profile URL
