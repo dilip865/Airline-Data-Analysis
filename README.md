@@ -132,7 +132,8 @@ A Star Schema model was designed for efficient reporting.
 
 ## 📷 Dashboard Preview
 
-(Add dashboard screenshots here)
+<img width="1635" height="634" alt="excel-dashboard-pic" src="https://github.com/user-attachments/assets/e0acb183-f74f-45dc-a7c3-f0e8020ed80b" />
+
 
 ---
 
